@@ -4,6 +4,9 @@ Project Group 32
 Student1: Yushan Zhang, 90042930, yushanz5@uci.edu<br />
 Student2: Ziyi Yang, 90545904, zyang18@uci.edu<br />
 
+# Introduction <br />
+We use the Convolutional Neural Network (CNN) method to predict 7 different types of skin cancer. By building a CNN model and analyzing its performance with different optimizers, learning rates, and different numbers of epochs, we reached 77.78% precision in predicting test images.  <br />
+ <br />
 # Our Group's Final Project Report: <br />
 https://docs.google.com/document/d/1k6RZm3PTbbZXM7EIAqDmMjJ_YwE1fWyJMrTQvkgJ788/edit?usp=sharing <br/>
 <br/>
